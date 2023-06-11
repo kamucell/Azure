@@ -13,6 +13,10 @@
 
 Listing installed modul which's name start with 'AZ' 
 
+`Open Firewall port for ping`
+New-NetFirewall Rule -DisplayName "Allow ICMPv4-In" -Protocol ICMPv4
+
+
 `Traingin_ExportJson`
 
 This data file contains template json which to belong traingin resurce group.
