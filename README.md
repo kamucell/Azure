@@ -12,3 +12,7 @@
 `Get-Module -ListAvailable Az*`
 
 Listing installed modul which's name start with 'AZ' 
+
+`Traingin_ExportJson`
+
+This data file contains template json which to belong traingin resurce group.
