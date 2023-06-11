@@ -364,8 +364,8 @@
                                     "destinationIpGroups": [],
                                     "destinationFqdns": [],
                                     "destinationPorts": [
-                                        "801",
-                                        "4431"
+                                        "80",
+                                        "443"
                                     ]
                                 }
                             ]
